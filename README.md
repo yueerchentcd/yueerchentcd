@@ -1,24 +1,52 @@
-# Hi, I'm Yueer (Joel) Chen
+`§ 00 PORTFOLIO` · `DUBLIN, IRELAND`
 
-I'm a Dublin-based graduate with a background in high-performance computing (HPC), data analytics and quantitative finance. I'm exploring opportunities in technology and finance.
+# Hi, I’m Joel.
 
-[Portfolio](https://pixel-perfect-replay-94834.lovable.app/) · [About](https://pixel-perfect-replay-94834.lovable.app/about) · [LinkedIn](https://www.linkedin.com/in/joelchen330/)
+**Building efficient solutions to complex problems.**
 
-## About me
+I’m Yueer (Joel) Chen, a Dublin-based graduate with a background in high-performance computing, financial risk management, mathematics and economics. My industry experience includes an HPC software internship and an eight-month asset management internship.
 
-- MSc in High-Performance Computing, Trinity College Dublin — First Class Honours (Distinction)
-- MSc in Financial Risk Management, Trinity College Dublin
-- BSc in Mathematics and Economics, University of Limerick
+[View portfolio](https://pixel-perfect-replay-94834.lovable.app/) · [View projects](https://pixel-perfect-replay-94834.lovable.app/projects) · [LinkedIn](https://www.linkedin.com/in/joelchen330/)
 
-My experience includes an HPC software internship and an eight-month asset management internship. I work with Python, R, C and C++, with interests in data analytics, machine learning, parallel computing, financial risk modelling and financial instrument valuation. I speak English and Chinese, and play the violin at a professional level.
+## Personal specification
 
-## Selected projects
+| | |
+| :--- | :--- |
+| `FOCUS` | Software engineering, data science and analytics, quantitative finance |
+| `EDUCATION` | **MSc High-Performance Computing**, Trinity College Dublin · First Class Honours (Distinction)<br>**MSc Financial Risk Management**, Trinity College Dublin<br>**BSc Mathematics and Economics**, University of Limerick |
+| `TOOLS` | Python, R, C and C++ |
+| `LANGUAGES` | English and Chinese |
+| `OUTSIDE WORK` | Professional-level violinist |
+| `STATUS` | Open to opportunities in technology and finance |
 
-| Project | What I worked on |
-| --- | --- |
-| [Parallelised Radar-Assisted Rainfall Quality Control](https://pixel-perfect-replay-94834.lovable.app/projects/radar-rainfall-quality-control) | Developed and optimised parallel workflows for rainfall quality control for the Met Éireann project using C++, R, Rcpp, OpenMP and Slurm. |
-| [Character-Level Transformer Language Model](https://pixel-perfect-replay-94834.lovable.app/projects/character-level-transformer) | Implemented and trained a character-level Transformer in Python and PyTorch, then compared model configurations and evaluated validation loss and generated text. |
-| [Hull–White Interest Rate Modelling and CVA Analysis](https://pixel-perfect-replay-94834.lovable.app/projects/hull-white-cva) | Calibrated a one-factor Hull–White model to USD SOFR swaption volatilities, estimated expected positive exposure and CVA with Monte Carlo simulation, and built a trinomial pricing tree. |
-| [Bitcoin OTC Network Trust Analysis](https://pixel-perfect-replay-94834.lovable.app/projects/bitcoin-otc-trust-network) | Analysed trust and distrust relationships, interaction patterns and communities in the Bitcoin OTC network. |
+## Selected work
 
-[All projects](https://pixel-perfect-replay-94834.lovable.app/projects) · [Experience](https://pixel-perfect-replay-94834.lovable.app/experience) · [Contact](https://pixel-perfect-replay-94834.lovable.app/contact)
+### `PRJ 01` · [Parallelised Radar-Assisted Rainfall Quality Control](https://pixel-perfect-replay-94834.lovable.app/projects/radar-rainfall-quality-control)
+
+Developed and optimised parallel workflows for a Met Éireann rainfall quality control project, combining spatial analysis, statistical methods and performance optimisation.
+
+`C++` · `R` · `Rcpp` · `OpenMP` · `Slurm`
+
+### `PRJ 02` · [Character-Level Transformer Language Model](https://pixel-perfect-replay-94834.lovable.app/projects/character-level-transformer)
+
+Built and trained a character-level Transformer. Compared model configurations using validation loss, generalisation and the quality of generated text.
+
+`Python` · `PyTorch`
+
+### `PRJ 03` · [Hull–White Interest Rate Modelling and CVA Analysis](https://pixel-perfect-replay-94834.lovable.app/projects/hull-white-cva)
+
+Calibrated a one-factor Hull–White model to USD SOFR swaption volatilities, estimated expected positive exposure and credit valuation adjustment, and built a trinomial tree to price fixed-income instruments.
+
+`Hull–White model` · `Monte Carlo simulation` · `Euler–Maruyama` · `Trinomial trees`
+
+### `PRJ 04` · [Bitcoin OTC Network Trust Analysis](https://pixel-perfect-replay-94834.lovable.app/projects/bitcoin-otc-trust-network)
+
+Analysed trust and distrust in the Bitcoin OTC network, including asymmetry in relationships, interaction patterns and community structure.
+
+`Network analysis` · `Community detection` · `Clustering`
+
+---
+
+`INDEX`
+
+[About](https://pixel-perfect-replay-94834.lovable.app/about) · [Experience](https://pixel-perfect-replay-94834.lovable.app/experience) · [Education](https://pixel-perfect-replay-94834.lovable.app/education) · [Projects](https://pixel-perfect-replay-94834.lovable.app/projects) · [Skills](https://pixel-perfect-replay-94834.lovable.app/skills) · [Contact](https://pixel-perfect-replay-94834.lovable.app/contact)
